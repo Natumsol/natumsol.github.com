@@ -4,7 +4,7 @@
   <title><![CDATA[Category: feart | Feart]]></title>
   <link href="http://Natumsol.github.io/blog/categories/feart/atom.xml" rel="self"/>
   <link href="http://Natumsol.github.io/"/>
-  <updated>2014-07-02T16:17:50+08:00</updated>
+  <updated>2014-07-02T16:19:59+08:00</updated>
   <id>http://Natumsol.github.io/</id>
   <author>
     <name><![CDATA[Feart_team]]></name>
@@ -29,22 +29,6 @@
 
 <p>例子1</p>
 
-<p>```cpp C语言</p>
-
-<h1>include &lt;stdio.h></h1>
-
-<p>int main()
-{</p>
-
-<pre><code>printf("Hello,World\n");
-return 0;
-</code></pre>
-
-<p>}
-```</p>
-
-<p>例子2</p>
-
 <p>```java Java语言
 public class helloworld{</p>
 
@@ -57,7 +41,7 @@ public class helloworld{</p>
 <p>}
 ```</p>
 
-<p>例子3</p>
+<p>例子2</p>
 
 <p>```javascript JavaScript语言
 var person = new Object();
