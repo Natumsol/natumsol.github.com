@@ -4,7 +4,7 @@
   <title><![CDATA[Feart]]></title>
   <link href="http://Natumsol.github.io/atom.xml" rel="self"/>
   <link href="http://Natumsol.github.io/"/>
-  <updated>2014-07-02T19:15:57+08:00</updated>
+  <updated>2014-07-02T19:35:05+08:00</updated>
   <id>http://Natumsol.github.io/</id>
   <author>
     <name><![CDATA[Feart_team]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://Natumsol.github.io/blog/2014/07/02/test/"/>
-    <updated>2014-07-02T19:12:30+08:00</updated>
-    <id>http://Natumsol.github.io/blog/2014/07/02/test</id>
-    <content type="html"><![CDATA[<h1>Test</h1>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Code Highlignt Test]]></title>
