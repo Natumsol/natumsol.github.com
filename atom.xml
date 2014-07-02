@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Natumsol's]]></title>
+  <link href="http://Natumsol.github.io/atom.xml" rel="self"/>
+  <link href="http://Natumsol.github.io/"/>
+  <updated>2014-07-02T10:44:57+08:00</updated>
+  <id>http://Natumsol.github.io/</id>
+  <author>
+    <name><![CDATA[Natumsol]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Yellow Crane]]></title>
+    <link href="http://Natumsol.github.io/blog/2014/07/02/the-yellow-crane/"/>
+    <updated>2014-07-02T10:33:00+08:00</updated>
+    <id>http://Natumsol.github.io/blog/2014/07/02/the-yellow-crane</id>
+    <content type="html"><![CDATA[<h1>Hello,World</h1>
+
+<p><img src="http://a.hiphotos.baidu.com/image/pic/item/f7246b600c3387444b07b285530fd9f9d62aa00d.jpg" alt="crane" /></p>
+
+<blockquote><p>昔人已乘黃鶴去</p>
+
+<p>此地空餘黃鶴樓</p>
+
+<p>黃鶴一去不復返</p>
+
+<p>白雲千載空悠悠</p>
+
+<p>晴川曆曆漢陽樹</p>
+
+<p>芳草萋萋鹦鹉洲</p>
+
+<p>日暮鄉關何處是</p>
+
+<p>煙波江上使人愁</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://Natumsol.github.io/blog/2014/07/02/hello/"/>
+    <updated>2014-07-02T00:00:00+08:00</updated>
+    <id>http://Natumsol.github.io/blog/2014/07/02/hello</id>
+    <content type="html"><![CDATA[<h1>Hello,World</h1>
+
+<p><img src="http://a.hiphotos.baidu.com/image/pic/item/f7246b600c3387444b07b285530fd9f9d62aa00d.jpg" alt="crane" /></p>
+
+<blockquote><p>昔人已乘黃鶴去</p>
+
+<p>此地空餘黃鶴樓</p>
+
+<p>黃鶴一去不復返</p>
+
+<p>白雲千載空悠悠</p>
+
+<p>晴川曆曆漢陽樹</p>
+
+<p>芳草萋萋鹦鹉洲</p>
+
+<p>日暮鄉關何處是</p>
+
+<p>煙波江上使人愁</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
