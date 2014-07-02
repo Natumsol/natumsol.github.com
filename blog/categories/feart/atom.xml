@@ -4,7 +4,7 @@
   <title><![CDATA[Category: feart | Feart]]></title>
   <link href="http://Natumsol.github.io/blog/categories/feart/atom.xml" rel="self"/>
   <link href="http://Natumsol.github.io/"/>
-  <updated>2014-07-02T11:32:15+08:00</updated>
+  <updated>2014-07-02T15:39:45+08:00</updated>
   <id>http://Natumsol.github.io/</id>
   <author>
     <name><![CDATA[Feart_team]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Code Highlignt Test]]></title>
+    <link href="http://Natumsol.github.io/blog/2014/07/02/highlight/"/>
+    <updated>2014-07-02T15:18:01+08:00</updated>
+    <id>http://Natumsol.github.io/blog/2014/07/02/highlight</id>
+    <content type="html"><![CDATA[<h1>语法高亮测试</h1>
+
+<h3>语法</h3>
+
+<pre><code>``` [language] [title] [url] [link text] [linenos:false] [start:#] [mark:#,#-#]
+    code snippet
+```
+</code></pre>
+
+<p>例子1</p>
+
+<p>```cpp C语言</p>
+
+<h1>include &lt;stdio.h></h1>
+
+<p>int main()
+{</p>
+
+<pre><code>printf("Hello,World\n");
+return 0;
+</code></pre>
+
+<p>}
+```</p>
+
+<p>例子2</p>
+
+<p>```java Java语言
+public class helloworld{</p>
+
+<pre><code>static public void main(String[] args)
+{
+    System.out.println("Hello,World");
+}
+</code></pre>
+
+<p>}
+```</p>
+
+<p>例子3</p>
+
+<p>```javascript JavaScript语言
+var person = new Object();
+function sayhi()
+{</p>
+
+<pre><code>console.log("hello,world");
+</code></pre>
+
+<p>}
+```</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Feart]]></title>
