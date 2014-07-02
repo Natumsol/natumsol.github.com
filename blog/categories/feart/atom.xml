@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Feart]]></title>
-  <link href="http://Natumsol.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: feart | Feart]]></title>
+  <link href="http://Natumsol.github.io/blog/categories/feart/atom.xml" rel="self"/>
   <link href="http://Natumsol.github.io/"/>
   <updated>2014-07-02T11:32:15+08:00</updated>
   <id>http://Natumsol.github.io/</id>
@@ -25,26 +25,6 @@
 <p>前端开发小团队（Feart.cn），一个追求品质与美的前端开发团队。Be Elenent ，Be an Art是我们的目标。虽然团队刚成立，规模不大，但是我们充满激情，相信在部长的带领下，Feart会越来越强大~~</p>
 
 <p>For A Better Web,We are Trying&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Yellow Crane]]></title>
-    <link href="http://Natumsol.github.io/blog/2014/07/02/the-yellow-crane/"/>
-    <updated>2014-07-02T10:33:00+08:00</updated>
-    <id>http://Natumsol.github.io/blog/2014/07/02/the-yellow-crane</id>
-    <content type="html"><![CDATA[<h1>黃鶴樓</h1>
-
-<p><img src="http://natumsol.qiniudn.com/crane.jpg" alt="crane" /></p>
-
-<blockquote><p>昔人已乘黃鶴去
-此地空餘黃鶴樓
-黃鶴一去不復返
-白雲千載空悠悠
-晴川曆曆漢陽樹
-芳草萋萋鹦鹉洲
-日暮鄉關何處是
-煙波江上使人愁</p></blockquote>
 ]]></content>
   </entry>
   
